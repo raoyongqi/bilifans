@@ -17,4 +17,4 @@ function Get-BilibiliFans {
 }
 
 # 示例调用: 使用 Bilibili 上某个 UP 主的 UID
-Get-BilibiliFans -uid 517327498  # 请将 '12345678' 替换为实际的 UP 主 UID
+Get-BilibiliFans -uid 293793435  # 请将 '12345678' 替换为实际的 UP 主 UID
